@@ -62,13 +62,6 @@ textarea.empty {
     border-radius: 20px;
 }
 
-.container2 {
-    display: flex;
-    flex-wrap: wrap;
-    flex-shrink: 0;
-    gap: 70px;
-}
-
 .main2 {
     display: flex;
     gap: 100px;
